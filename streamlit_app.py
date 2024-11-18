@@ -7,14 +7,14 @@ Original file is located at
     https://colab.research.google.com/drive/1qn5r3ihmNXDpLTX0EiiIjaqb8DdBu9AA
 """
 
-!pip install youtube_transcript_api
+# !pip install youtube_transcript_api
 
-!pip install streamlit pyngrok
-!pkill ngrok
-!pip install reportlab
+# !pip install streamlit pyngrok
+# !pkill ngrok
+# !pip install reportlab
 
-!apt-get update
-!apt-get install -y texlive
+# !apt-get update
+# !apt-get install -y texlive
 
 # Commented out IPython magic to ensure Python compatibility.
 # %%writefile app.py
